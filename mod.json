@@ -1,0 +1,9 @@
+{
+   "name": "atrac",
+   "displayName": "Atrac", 
+   "author": "Antlrr",
+   "description": "atrac",
+   "version": "1.0",
+   "minGameVersion": "130",
+   "hidden": "true"
+}
